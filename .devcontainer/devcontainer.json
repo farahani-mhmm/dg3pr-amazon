@@ -1,0 +1,7 @@
+{
+  "name": "dg3pr-cpu",
+  "image": "mcr.microsoft.com/devcontainers/python:3.9-bullseye",
+  "customizations": {
+    "vscode": { "extensions": ["ms-python.python"] }
+  }
+}

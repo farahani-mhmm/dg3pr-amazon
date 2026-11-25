@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local environment, datasets, and generated model files
+.venv/
+/data/raw/
+/data/processed/
+/DG3PR_code/raw_data/
+/DG3PR_code/data/
+/DG3PR_code/output/
+/DG3PR_code/runs/
+*.pth
+
+/data/amazon_raw/
